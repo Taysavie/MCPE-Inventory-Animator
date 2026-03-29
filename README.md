@@ -21,9 +21,15 @@ If you get the error message for "4096 out of bounds" or "I/O error reading imag
 <br>
 Highly reccomend using square aspect ratio gifs for best visual results. Portrait or super stretched landscape images might come out as super low quality or zoomed in.
 
+If you use an overlay, it might make everything black, covering the GIF. That's because your overlay background isnt full invisible.
+
 # Developers:
 Swedeachu (Tool Programmer)                
 <br>
 CrisXolt (UI Pack Code + Original Inventor)  
 <br>
 PolrFlare (UI Pack Code + Other Help) 
+
+# Update Contributor(s)
+Taysavie
+Claude Ai
