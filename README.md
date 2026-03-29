@@ -32,4 +32,5 @@ PolrFlare (UI Pack Code + Other Help)
 
 # Update Contributor(s)
 Taysavie
+<br>
 Claude Ai
